@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:id="@+id/group1"
+    android:checkableBehavior="single">
+    <item
+        android:id="@+id/nav_mail1"
+        android:icon="@drawable/ic_gmail"
+        android:title="@string/menu_mail1"/>
+    <item
+        android:id="@+id/nav_mail2"
+        android:icon="@drawable/ic_163"
+        android:title="@string/menu_mail2" />
+    <item
+        android:id="@+id/nav_mail3"
+        android:icon="@drawable/ic_qq"
+        android:title="@string/menu_mail3" />
+    <item
+        android:id="@+id/nav_tools"
+        android:icon="@drawable/ic_sina"
+        android:title="@string/menu_mail4" />
+        <item
+            android:id="@+id/nav_add"
+            android:icon="@drawable/ic_add"
+            android:title="@string/menu_add" />
+</group>
+
+
+    <group android:id="@+id/group2"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_receiver"
+            android:icon="@drawable/ic_menu_receiver"
+            android:title="@string/menu_receiver"/>
+        <item
+            android:id="@+id/nav_draft"
+            android:icon="@drawable/ic_menu_draft"
+            android:title="@string/menu_draft" />
+        <item
+            android:id="@+id/nav_sender"
+            android:icon="@drawable/ic_menu_sender"
+            android:title="@string/menu_sender" />
+        <item
+            android:id="@+id/nav_spam"
+            android:icon="@drawable/ic_menu_spam"
+            android:title="@string/menu_spam" />
+        <item
+            android:id="@+id/nav_delete"
+            android:icon="@drawable/ic_menu_delete"
+            android:title="@string/menu_delete" />
+    </group>
+
+</menu>

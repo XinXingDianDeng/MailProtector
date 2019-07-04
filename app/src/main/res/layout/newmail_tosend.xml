@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Activity.NewMail"
+    android:background="@color/edit_bg">
+
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/newmail_bar"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/size_60"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginLeft="0dp"
+        android:layout_marginTop="-2dp"
+        android:layout_marginRight="0dp"
+        android:background="@color/base_dark"
+        app:logo="@drawable/ic_163"
+        app:navigationIcon="@drawable/ic_cancel"
+        app:subtitle="@string/menu_mail1"
+        app:title="@string/menu_receiver">
+    </android.support.v7.widget.Toolbar>
+
+    <TextView
+        android:id="@+id/label_receiver"
+        android:layout_width="wrap_content"
+        android:layout_height="@dimen/size_54"
+        android:layout_below="@+id/newmail_bar"
+        android:layout_alignParentLeft="true"
+        android:gravity="center_vertical"
+        android:text=" 收件人:"
+        android:textSize="@dimen/size_24" />
+
+    <EditText
+        android:id="@+id/newmail_receiver"
+        android:layout_width="wrap_content"
+        android:layout_height="@dimen/size_54"
+        android:layout_below="@+id/newmail_bar"
+        android:layout_alignParentRight="true"
+        android:layout_toRightOf="@id/label_receiver"
+        android:gravity="center_vertical"
+        android:singleLine="true"
+        android:textColor="#000"
+        android:textSize="@dimen/size_24" />
+
+
+    <TextView
+        android:id="@+id/label_theme"
+        android:layout_width="wrap_content"
+        android:layout_height="@dimen/size_54"
+        android:layout_below="@+id/label_receiver"
+        android:layout_alignParentLeft="true"
+        android:gravity="center_vertical"
+        android:text=" 主题:"
+        android:textSize="@dimen/size_24" />
+
+    <EditText
+        android:id="@+id/newmail_theme"
+        android:layout_width="wrap_content"
+        android:layout_height="@dimen/size_54"
+        android:layout_below="@+id/newmail_receiver"
+        android:layout_alignParentRight="true"
+        android:layout_toRightOf="@id/label_theme"
+        android:focusable="true"
+        android:focusableInTouchMode="true"
+        android:gravity="center_vertical"
+        android:marqueeRepeatLimit="marquee_forever"
+        android:singleLine="true"
+        android:textColor="#000"
+        android:textSize="@dimen/size_24" />
+
+    <EditText
+        android:id="@+id/newmail_content"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/label_theme"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:background="#fff"
+        android:gravity="top"
+        android:inputType="textMultiLine"
+        android:maxLength="600"
+        android:maxLines="31"
+        android:minLines="20"
+        android:scrollHorizontally="true"
+        android:textSize="@dimen/size_18"
+        android:textColor="@color/edit"/>
+
+</RelativeLayout>

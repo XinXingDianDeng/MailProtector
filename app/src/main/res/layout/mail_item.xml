@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/sll_main"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/edit_bg">
+
+
+        <ImageView
+            android:id="@+id/mail_image"
+            android:layout_width="@dimen/size_60"
+            android:layout_height="@dimen/size_60"
+            android:layout_alignParentLeft="true"
+            app:srcCompat="@mipmap/ic_cat_round"
+        />
+        <!--android:layout_marginLeft="3dp"-->
+
+        <TextView
+            android:id="@+id/mail_sender"
+            android:layout_width="wrap_content"
+            android:layout_height="@dimen/size_20"
+            android:text="@string/menu_mail1"
+            android:layout_toRightOf="@+id/mail_image"
+            android:layout_marginLeft="@dimen/size_3"/>
+        <ImageView
+            android:id="@+id/mail_point"
+            android:layout_width="@dimen/size_30"
+            android:layout_height="@dimen/size_30"
+            android:layout_toRightOf="@+id/mail_sender"
+            app:srcCompat="@drawable/ic_point"
+            android:layout_marginLeft="@dimen/size_3"/>
+
+        <TextView
+            android:id="@+id/mail_theme"
+            android:layout_width="wrap_content"
+            android:layout_height="@dimen/size_20"
+            android:text="@string/menu_mail2"
+            android:layout_toRightOf="@+id/mail_image"
+            android:layout_below="@+id/mail_sender"
+            android:layout_marginLeft="@dimen/size_3"/>
+
+        <TextView
+            android:id="@+id/mail_content"
+            android:layout_width="wrap_content"
+            android:layout_height="@dimen/size_20"
+            android:text="@string/menu_mail3"
+            android:layout_toRightOf="@+id/mail_image"
+            android:layout_below="@+id/mail_theme"
+            android:layout_marginLeft="@dimen/size_3"/>
+    </RelativeLayout>

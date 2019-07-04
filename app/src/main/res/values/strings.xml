@@ -1,0 +1,500 @@
+<resources>
+    <string name="app_name">Mail Protector</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="username">有潜就是好</string>
+    <string name="userMailBox">www.522440242@qq.com</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="navigation_mail">邮件</string>
+    <string name="navigation_address">通讯录</string>
+    <string name="navigation_me">我</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+    <string name="menu_receiver">收件箱</string>
+    <string name="menu_draft">草稿箱</string>
+    <string name="menu_sender">已发送</string>
+    <string name="menu_spam">已拦截</string>
+    <string name="menu_delete">已删除</string>
+    <string name="menu_mail1">www.123@gmail.com</string>
+    <string name="menu_mail2">www.123@163.com</string>
+    <string name="menu_mail3">www.123@qq.com</string>
+    <string name="menu_mail4">www.123@sina.com</string>
+    <string name="menu_add">添加邮箱</string>
+    <string name="c0">尊敬的阁下，您好：
+
+   项目管理者联盟将于 [2005年9月2-3日] 在 [北京] 组织《项目投资决策与过程控制》高级研讨班。
+   ---------------------------------------------------------------------------------
+
+   课程对象：企业投资决策相关人员（如：企业决策层、投资部门人员、市场/研发/财务等部门经理、高级产品经理/项目经理等）
+             政府工业管理人员、银行信托业信贷管理人员、风险投资机构管理人员等
+
+   课程时间：2005年9月2-3日（周五/六  2天）
+   课程地点：北京 清华紫光国际交流中心（清华东门）
+
+   课程收费：2980元/人 （费用含教材、配套书籍《项目投资与管理》、文具、午餐、点心；PMI认可的14个PDU）
+             3人以上团体报名享受9折优惠。
+             可代订住宿，费用自理
+
+   ---------------------------------------------------------------------------------
+   详细课程内容见网络页面：http://www.mypm.net/zhuanti/pmu/invest.htm
+   或联系我们：010-62366985、62368085、13911121453，yhua@mypm.net, QQ：12928002, MSN：bjyr@sina.com
+
+   ---------------------------------------------------------------------------------
+
+   本课程针对投资决策所面临问题专门设计，包含了从多个相关学科中提炼、总结的体系化
+   投资决策方法以及多家著名跨国公司项目投资的最佳实践。“以事述理”和“案例示范”是
+   本课程的特点，“立竿见影”和“学以致用”是本课程的设计目标和追求效果。
+
+   课程内容大纲：
+
+   第一单元:企业发展与投资项目
+    1. 企业与投资项目       2. 项目与项目组织       3. 项目与项目人员
+    4. 项目与核心竞争力     5. 项目与战略规划
+    案例与研讨：某项目投资的董事会争议和解决办法
+
+   第二单元:资金分配与项目组合
+    1. 行业利润与发展投资   2. 产品矩阵与投资分配
+    3. 项目组合与排序方法   4. 组合管理与项目管理
+    案例与研讨：上海XX集团和深圳XX集团的产品矩阵差异和 发展趋势
+
+   第三单元:投资机会与方向决策
+    1. 决策过程与决策模式    2. 投资机会决策的漏斗模式    3. 漏斗模式的市场需求约束
+    4. 漏斗模式的产品竞争性约束   5. 漏斗模式的企业竞争力约束
+    6. 漏斗模式的经济效益约束     7. 漏斗模式的行业应用
+    案例与研讨：漏斗模型应用——25吋彩电投资项目的风险规避
+
+   第四单元:立项决策与信息收集
+    1. 立项决策与信息收集     2. 政策法规信息与立项决策 3. 国际经济信息与立项决策
+    4. 行业供需信息与立项决策 5. 技术发展信息与立项决策 6. 标准规范信息与立项决策
+    案例与研讨：XX技术引进合同中政府部门与合资企业的争议
+
+   第五单元:立项决策与市场预测
+    1. 成熟期市场预测-等增量与移动平均法   2. 成熟期市场预测-相关回归分析
+    3. 成长期市场预测-趋势外推曲线拟合     4. 启动期市场预测-生命周期曲线拟合
+    5. 组合预测
+    案例与研讨：世界塑料市场数量预测-曲线拟合练习
+
+   第六单元:立项决策与方案选择
+    1. 战略供应商选择-价值工程分析   2. 投资规模选择-非概率决策
+    3. 投资规模选择-概率决策         4. 建设地址选择-加权记分法
+    案例与研讨：多媒体投影机三种投资规模选择的依据
+
+   第七单元:立项决策与经济模型
+    1. 项目经济模型的结构          2. 项目经济模型的模块
+    3. 投资总额与流动资金估算      4. 产品价格与生产成本估算
+    5. 固定资产折旧和无形资产摊销  6. 产品投资项目的经济模型
+    7. 技术改造项目的经济模型      8. 系统集成项目的经济模型
+    案例与研讨：政府优惠政策对经济模型的影响因素
+                无形资产的价值估计
+
+   第八单元:立项决策与经济分析
+    1. 项目的销售利润率      2. 项目的投资回收期   3. 项目的投资利润率
+    4. 项目的累计净现值NPV   5. 项目的内部收益率   6. 项目的盈亏平衡分析
+    7. 项目的经济敏感性分析  8. 项目的不确定性分析
+    案例与研讨：赢亏分析中固定成本和可变成本不确定的解决办法
+
+   第九单元:决策风险与风险管理
+    1. 风险事件概率和影响程度   2. 投资项目风险因素    3. 风险应对策略
+    4. 风险管理流程             5. 风险管理技术-方案替代技术PDPC
+    6. 风险管理技术-德尔菲调查法与风险等级矩阵
+    案例与研讨：诸葛亮对魏延的处理方法
+
+   第十单元:项目过程与过程控制
+    1. 过程控制与局部反馈  2. 状态差异与基准变更  3. 进度控制与趋势预测
+    4. 费用控制与费用差异  5. 质量控制与阶段评审  6. 项目管理过程图
+    案例与研讨：非项目实施人员(企业决策层、银行信托人员、政府工业管理人员、风险投资人员)如何监督项目状态？
+
+   课程讲师：王景山老师
+   深圳脑库投资咨询客座研究员、项目管理者联盟高级顾问，高级工程师、深圳中南培训中心常务副总经理。
+   旅欧访问学者，归国后在跨国集团公司从事产品研发、生产经营管理和企业经营发展规划工作多年。主持和参与过大量与美国、日本、欧洲国家、新加坡、印度、伊朗公司合作项目。项目内容包括新品研发、计算机软件、硬件研制、厂房建造、设备改造、成套生产设备出口项目和其它科学研究项目，项目规模从数百万人民币至10亿人民币。近年来致力于项目投资与管理的研究和咨询，为多家国内、外公司主持市场分析及预测、技术分析和经济分析、制作可行性研究报告和合资合同及章程、提供投资项目管理制度流程建设咨询。
+   为赛格日立公司、大亚湾核电站、深圳青年学院MBA班、深圳邮政局、深圳电信局研发中心、西北长庆石油管理局、深圳科路电子公司、广东移动通信深圳分公司、深圳赛格集团、深圳三星电子有限公司、深圳高新技术开发区、特区发展集团、中国银行深圳分行、成都衡平信托投资公司、广东美的集团、广东鼎湖移动通信培训中心、汕头移动通信公司、万泰集团、时代智慧管理咨询公司、嘉泉水处理工程公司、惠思特投资软件公司、四川永丰纸业等企事业单位进行过投资咨询和相关培训。
+   撰写《项目投资与管理》等书籍。该书籍作为本次培训配套书籍。
+   ---------------------------------------------------------------------------------
+   详细课程内容见网络页面：http://www.mypm.net/zhuanti/pmu/invest.htm
+   或联系我们：010-62366985、62368085、13911121453，yhua@mypm.net
+               QQ：12928002, MSN：bjyr@sina.com</string>
+    <string name="c1">主页　　ＶＯＩＰ呼叫中心服务热线方案　　各地分公司间的零话费用方案
+                　　各地分公司间的电话会议　 联系我们
+
+
+
+                 怎样才能让客户主动同你打电话，咨询业务！！
+             能让客户与企业直接进行电话交流，双方不产生电话费用
+              请安装—思拓Web800网上免费的客服呼叫中心热线电话
+
+
+       让您发现潜在的业务用户---生意机会增加80%!电话一响，黄金万两！
+
+   　　企业如果在网站上安装思拓800呼叫中心系统--免费客服热线，当消费者
+   在浏览网站时，有想咨询业务就直接点击网上呼叫打到企业的电话机上进行业务
+   咨询，而企业是不用开电脑的，可接到程控交换机有语音导航转接各部门分机，
+   也可同原
+   呼叫中心系统接一起，让客服坐席人员也可接听，同时可以实现多路电话进入的
+   排队呼叫、呼转。而且是双方都不用付通讯费用，这会加大客户与企业间的沟通
+   。让业务咨询做到最好，成交率便高。只有让客户方便同企业通话才能是生意的
+   开始。
+   　　这是通过我们自已的SIP协
+   议做的VOIP软交换平台来实现的。也可实现各地分公司之间的电话互拨打免费电
+   话，在这基础上也能便利低成本的实现公司间的电话会议，提高工作交流机会，
+   提高工作效率。
+   详情产品请看http://www.jrlm.net/gg.htm
+
+                           欢蛹用舜砩獭⒕销商，
+              利润大每年都有续费后的增值利润，让你拥有永久客户
+     _________________________________________________________________
+
+         联系电话：010-88473238转8015 　80651238 　13121048636
+     _________________________________________________________________
+
+                        网上Web800热线电话解决方案
+
+
+   Web800的基本功能是为企业和企业的客户提供语音沟通服务；
+   Web800本质上与企业的网络营销是互补的，是互联网营销的必备工具；
+
+   ★　当客户浏览公司网站时，看到感兴趣的产品，再不用另外拿起电话咨询，只
+   需点击企业Web页面上的指
+   定图标，便可一边浏览网页一边与企业相应的部门通话，
+   无需花费额外的电话费用。（当然您的机器需要配有耳机和话筒）
+   ★　可接到程控交换机有语音导航转接各部门分机
+   ★　可接到呼叫中心的坐席上，可以做到排队呼叫
+   ★　企业出差人员也可以通过Internet点击公司网页，直接与公司联系，实现移
+   动办公。
+   ★　企业还可以将申请Web800以后获得的连接作为签名，嵌入Email中，从而实
+   諱ail2phone；还可以把连
+   接嵌入企业在网络上的广告中，也是轻松实现的功能
+   ★　Web800通过这种商务模式，用户无地域限制，实现了全球的点击通话功能、
+   而双方不用担负话费。
+     _________________________________________________________________
+
+      Web800面向开展电子商务的中小企业，致力于为中小企业带来更多生意。
+
+            Web800的目标用户群是开展电子商务比较活跃的中小企业：
+
+              他们对于“商机”的关注远远大于对服务质量的关注。
+    他们建立了自己的网站，并且花钱在百度、新浪、google上做广告宣传自己；
+         他们的网站有一定的访问量，可是“访客”大多数只是“过客”；
+      而通过Web800是有效的帮助了中小企业把“访客”变为“顾客”的。
+             web800不是有形产品，这是一种基于互联网的增值服务：
+
+           web800的基本功能是为企业和企业的客户提供语音沟通服务；
+       web800本质上与企业的网络营销是互补的，是互联网营销的必备工具；
+             web800不仅对中小企业很有价值，对大型企业也有价值：
+
+   web800为中小企业带来更多生意，使企业的互联网营销投入能够有可观的回报；
+                      web800帮助大型企业提高服务质量；
+   web800与传统800电话的对比（要便宜得多，而传统800企业需为客户支付0.7毛
+                  环种拥姆延茫颐堑氖敲磕 800的年租费）
+                              立即申请web800!
+                            电话一响，黄金万两！
+
+         我们的用户常常反映，自从他们在自家的网站上发布了web800联系
+                     人之后，客户数量每个月都节节上升。
+         因为客户愿意给商家打电话了，而且事实证明，来自web800的客户
+                              "命中率"都奇高！
+     _________________________________________________________________
+
+                       联系人：阳化杰( 市场纠  ）
+           联系电话：010-88473238转8015 　80651238 　13121048636
+                           E-mail:yanceys@163.com
+
+
+
+
+
+
+          请打网上Web800免费电话咨询  ←点击呼叫</string>
+    <string name="c2">促进地区自由贸易      建设家乡交易平台      为什么要加入中国跳蚤联盟？
+   中国跳蚤联盟是由全国31省市300多座主要城市的"跳蚤市场"组成，您只要申请
+   晌 "中国跳蚤联盟"成员，您将拥有一座城市的"跳蚤市场"的经
+   营权，您就是版主，网站的广告收入全部归你，通过遍布全国各市的版主，互相
+   交流，相互推广，形成一个中国最大的跳蚤市场、二手市场、分类广告网站，所
+   产生的炯眯вξ薹ü兰啤          网路实名         :        中国跳蚤联盟
+   详情请浏览http://www.321327.com
+   中山跳蚤市场http://www.321327.com/gd/zs
+   东莞跳蚤市场http://www.321327.com/gd/dg                 。。。。。。。
+   促进地区自由贸易 建设家乡交易平台
+   为什么要加入中国跳蚤联盟？
+   中国跳蚤联盟是由全国31省市300多座主要城市的"跳蚤市场"组成，您只要申请
+   晌 "中国跳蚤联盟"成员，您将拥有一座城市的"跳蚤市场"的经
+   营权，您就是版主，网站的广告收入全部归你，通过遍布全国各市的版主，互相
+   交流，相互推广，形成一个中国最大的跳蚤市场、二手市场、分类广告网站，所
+   产生的炯眯вξ薹ü兰啤
+   网路实名 : 中国跳蚤联盟
+   详情请浏览http://www.321327.com
+   中山跳蚤市场http://www.321327.com/gd/zs
+   东莞跳蚤市场http://www.321327.com/gd/dg
+   。。。。。。。</string>
+    <string name="c3">最新的调查表明：
+
+1）几乎100%的男人仅仅面对一套极其性感透明女式内衣
+即会产生强烈的性幻想。
+
+2）没有性感内衣包裹的女体的诱惑力绝对不及薄纱下的
+若隐若现来得来得强烈。
+
+3）有情趣内衣参与的前奏，能让男女双方增加50%的爱液
+分泌。
+
+期待最能激发幻想的款式，最低的价位吗？
+
+欢迎光临漂亮妹妹内衣店：www.5ineiyi.com</string>
+    <string name="c4">深圳市星诚实业有限公司
+
+          贵司（财务负责人/经理）
+                              您好!
+
+          本公司于商场经商多年以来，有着良好的人际关系与公司
+      实力雄厚。因进项方面比较大，每月份有“增值税”电脑发票
+      向外代开，税点方面比较优惠，约收（6%）左右的税点。
+
+        其它“国税、地税”等普通发票约（2%）左右的税点代开。
+    〈电脑“运输”发票、广告、其它服务业、建筑安装、商品销售
+      等各种普通发票〉
+
+          真诚希望能与贵司携手合作，在互惠互利的前提下，我司
+      认真负责、诚守信用、郑重承诺所有票据可税局核对或网上验
+      证! 还可以根据贵司开票量的大小再优惠多少!
+
+          此信息长期有效：如须进一步洽谈
+
+          联系人：童华文  电话：13798599809
+          邮  箱： szhw2002@163.com</string>
+    <string name="c5">如果您有2岁以上的宝宝，那您可得好好看了:
+如果您希望您的宝宝学龄前能轻松的看书读报并能拥有一个快乐的童年，那么机会来了！
+赶快登陆我们的网站http://www.rzps.com，会有一份欣喜等着您！因为，集首都师范大学、北京师范大学、北京大学、中国科学院的近百名专家科研成果，结合幼儿脑科学理论与生理心理发展特点，历时三年时间精心研究而成的《睿智宝贝识字乐园》是由首都师范大学科技园与北京金鼎睿智科技开发有限公司联合出品已经隆重上市了，这是一套划时代的幼儿教育软件，决不能与市面常见的图书VCD、多媒体课件相提并论。因为她蕴藏非常深厚的内涵，专家组独创的九维识字法，开幼儿识字之先河，全新演绎了让孩子在快乐中学习的教育理念。
+轻松的识字方法让孩子没有任何的学习负担，科学的复习让孩子在最短的时间内得到最高效的学习。
+海量的知识内容能够使幼儿在学龄前轻松认完1500个高频字，能自如地读书看报。
+只要孩子会握住鼠标就可以独立使用，无需家长辅导！
+电脑根据孩子的年龄和学习情况自动安排学习、复习、强化、应用的内容。
+系统自动记录孩子的学习情况并能直观的显示，以便家长了解孩子的学习情况。
+全套产品分为《牙牙学语》、《小试牛刀》、《书海畅游》、《妈妈宝宝读书库》四集，共16张光盘，四本精美图书，另有配套识字卡不干胶贴可供选购。
+公司地址：北京市海淀区西三环北路105号首都师范大学科技园二层
+北京金鼎睿智科技开发有限公司
+联系电话：010-86249822 68154928 68241406 81995467
+客服电话：转92/93/94/95
+24小时咨询电话：010-81677607  81677617
+专业网址：http://www.rzps.com    电子邮箱： rzps@ rzps.com</string>
+    <string name="c6">各企业人力资源部经理
+各行各业求职人才
+
+你好！
+
+    "2005年中国西部全国人才智力交流大会邀请函"定于2005年9月17日-18日在兰州市举办，
+此次大会由国家人事部和甘肃省人事厅共同主办，甘肃省高新技术人才市场具体承办。大会
+立足西部，面向海内外，及中高级人才交流、项目成果对接、人才论坛及西部商贸考察活动
+于一体，是一次人才引进和投资洽谈的良好时机。具体内容见附件1。
+
+    详情请见：中国工程技术人才网http://www.myjob168.com
+              西北人才网http://www.xbrc.gov.cn
+              中国国家人才网http://www.newjobs.com.cn
+              中国青海人才网http://www.qhrc.com.cn
+
+                   2005年中国西部全国人才智力交流大会组委会
+                          二00五年七月二十八日</string>
+    <string name="c7">在某美容论坛看到有内行人说，国外本土化了的品牌，同样产品的质量不仅远远不如
+国外产的质量，甚至连纯粹国产品牌的质量都不如。不知道奶粉是不是类似。
+     现在的配方奶粉都差不多，国家标准是一样的， 炒做概念，迷惑消费者，目前国内的伊利、圣元优聪婴幼儿奶粉都很不错的，和进口品牌相比毫不逊色。
+     选奶粉要懂得看里面的成分，婴儿配方奶粉的成分一般是鲜牛奶、乳清粉（国外进口，人家提炼奶油余下的，主要就是蛋白质）维生素、矿物质等，胡萝卜素、牛璜酸什么也要加，为了不上火还要加低聚糖（可以生成双歧因子，促进肠胃蠕动），DHA和AA不一定要直接添加的，有鱼腥
+     多美滋是在上海分装的，美赞臣在广州，雀巢完全国产化，为什么比国产奶粉贵？其实国外进口的原料粉比国内的还便宜，就是中国老百姓比较喜欢进口的东西，赚你的米米没商量！</string>
+    <string name="c8">以为张艺谋像我我们这样无聊天天泡网啊
+shenzhizhanhun20 [61.191.130.*] 认为：  引用 投诉 支持 (0) 2005-06-21 19:59:49
+对了,张导演,上次我说的让您老拍的电视剧的书名字叫 飘渺之旅!可以拍成的话希望你发个帖子!谢谢!
+网易网友 [222.140.203.*] 认为：  引用 投诉 支持 (0) 2005-06-09 11:15:02
+张艺谋的武侠片比较注重唯美的画质,但是却缺少对文化内涵的深层次拷问,欣赏起来有一种缥缈的感觉,没有厚重的人文思考!大家都很清楚张大导演的长向是拍文艺片,虽然他的武侠片不太如人意,但是他创造的票房记录却拯救了死气沉沉的国内影片,意义很大,成就很突出,值得我们钦佩!
+1132302741 [61.191.130.*] 认为：  引用 投诉 支持 (0) 2005-05-26 19:58:53
+张大导演~~
+不知道你能不能看到我这次给你说的话 不管别人对你怎么说的,我都不会去说什么.因为你自己在做什么你自己应该很清楚 热而别人对你怎么说并不能左右你的思想.我在这里只想让您老帮我们一个忙.我给您介绍一本书,希望您能拍成电视剧.其他的我不想说什么,但是如果您要拍的话,您可以在网上说一下.相信会有很多人感激您的,不知道您对网上文学怎么看,但是我们还是希望您老可以把这部书拍出来.因为已经有很多人在期待着这个电视剧的诞生.如果资金有问题的话 您老可以在网上说一下,我相信会有很多人愿意出钱的,包括我自己在内,虽然我们每个人并不可以出多少钱,但是一人一点,就会有很多的,多仪我们希望您可以把这部电视剧拍的完美些.谢谢!</string>
+    <string name="c9">我是外校过来的 导师还让我来做了半年毕设。最后学院要求一个老师只能带一个
+结果他选了另一个老师。我被晃点了，随便选了另一个老师。现在感觉也没什么
+到那不是混阿，而且现在老师还可以。
+我是本校报送的本专业的，当时教研室里只有一个教授A有资格带，我必定是跟他，开学后，另一个老师升为副教授，也要带，招了一个。但我却被调给这个刚能带的老师B。 按惯例，保研的先挑老师，剩下的给外面的，我的情况好像还有点不同。
+   说实话，两人水平不能比，A远在B之上，我当时保的时候就是冲着那个教授A去的，本来也没什么。 我去系里找说法，他们给的暗示是导师最终有决定权，他想带个男的。                   虽然一直听说有这种事，发生在自己身上，很不爽。去找导师A，他说的是系里给的压力，非要分一个学生给那个老师B。
+我没有当面捅破A，现在很想到研究生院问一下，自己就这么不明不白的被调了，我该怎么办？撕破脸的闹下去。</string>
+    <string name="title_activity_main2">Main2Activity</string><!--
+    <string name="e0">Having participated in USENET religion groups for about 5 years now,
+one of my primary observations about Catholics on the net is that they
+do not know their religion very well.  My hope is that this list might
+help remedy this problem to some extent.  I would like to make this a
+net resource available for Catholics who want to know more about their
+religion.
+</string>
+    <string name="e1">LUXURY  WATCHES - BUY YOUR OWN ROLEX  FOR ONLY  $219!
+
+  Rolex :: Cartier ::  Bvlgari  ::  Frank Muller  ::  Patek  Philippe :: Vacheron Constantin
+   A.  Lange  &amp; Sohne  ::  Audemars  Piguet  :: Jaeger-Lecoultre  ::  IWC  :: Officine  Panerai
+ Breitling ::  Omega ::  Tag  Heuer
+
+   Exapmle:
+ ROLEX  Full 18K Gold  Daytona  for MEN -  only  $269!
+
+    - Fast delivery
+     -  The lowest prices  in the world
+ -  Worldwide shipping
+
+ Visit  our shop at:
+
+http://vvhvjk130.sewandeatone.com</string>
+    <string name="e2">Academic Qualifications available from prestigious NON-ACC REDITED uni versities.
+
+Do you have the knowledge and the experience but lack the qualifications?
+
+Are you getting turned down time and time again for the job of your dreams because you just don\'t have the right letters after your name?
+
+Get the prestige that you deserve today!
+
+Move ahead in your career today!
+
+CALL 1-206-666-5510
+
+Bac helors, Mas ters and Ph D's available in your field!
+
+No examinations! No classes! No textbooks!
+
+Call to register and receive your qual ifications within days!
+
+24 hours a day 7 days a week!
+
+Confidentiality assured!
+
+1-206-666-5510</string>
+    <string name="e3">Dear Emmons,
+
+I am Manager Ahmed Hamza. I am pleased to get across to you for a very ur=
+gent
+and profitable business proposal, this may come to you as a Surprise as
+we have not met before. But I can trust a Person of your caliber.
+
+The intended business is thus, I am the Personal Account Manager to Mr.
+Joseph Emmons a Foreigner resident here in Nigeria, he was an oil consult=
+ant/Contractor
+with the government parastatals.
+
+Mr. Joseph Emmons died from an automobile accident, my client, his wife
+and their three children were involved in the accident along Lagos/Ibaban=
+
+Express Road. Unfortunately they all lost their lives in the event of the=
+
+accident, since then I have made several enquiries to locate any of my cl=
+ients
+extended relatives, this has also proved unsuccessful. After these severa=
+l
+unsuccessful attempts, I decided to trace his relatives over the Internet=
+,
+to locate any member of his family but of no avail, hence I contacted you=
+.
+
+
+I have to be sincere and honest with you, I contacted you to assist in re=
+patriating
+the money and property left behind by my late client before they get conf=
+iscated
+or declared unserviceable by Universal Trust Bank Plc where these huge de=
+posits
+were lodged. Particularly, the Universal Trust Bank Plc where the decease=
+d
+had an (fixed) account valued at about (USD 26.5 million dollars).
+
+Consequently, The Universal Trust Bank Plc issued me a notice to provide
+the next of kin or have the account confiscated within the  next 21 of=
+ficial
+working days. since I have been unsuccessful in locating the relatives fo=
+r
+over 3 years now, please I seek your consent to present you as the next
+of kin of the deceased since you have the same surname, so that the proce=
+eds
+of this account valued at (USD26.5 million dollars) can be paid to you an=
+d
+then you and I can share the money.
+
+(1) 45% for you as the account owner
+(2) 50% for I
+(3) 5% will be set aside to defray all incidental expenses both locally
+and internationally during the cause of this transaction.
+
+I know that you may not relate to my late client but I contact you on thi=
+s
+transaction based on the fact that you share the same surname with my lat=
+e
+client, it will be very easy to convince the bank since I have the necess=
+ary
+documents to backup the claim. I have all necessary legal documents that
+can be used to back up any claim we may make. All I require is your hones=
+t
+co-operation to enable us seeing this deal through. I guarantee that this=
+
+will be executed under a legitimate arrangement that will protect you fro=
+m
+any breach of the law.
+
+As soon as you agree to co-operate with me, I will meet with the official=
+s
+of our Universal Trust Bank Plc and present your information as the next
+of kin to my late client together with some relevant documents, they will=
+
+just go ahead and pay the money into your account and I will come over to=
+
+your country for the sharing of the fund.
+
+Please get in touch with me on my Email: ahmed.hamza@mail.ee, to enable
+us discuss further. please if you are not ready to transact this business=
+
+with me, tell me so that I will look for other alternative to get this mo=
+ney
+from the Bank.
+
+Yours faithfully,
+
+Ahmed Hamza.</string>
+    <string name="e4">This is a multi-part message in MIME format.
+&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;002_Dragon873900800101
+Content-Type: text/plain; charset=ISO-8859-1; format=flowed
+Content-Transfer-Encoding: 7bit
+
+try chauncey may conferred the luscious not continued a tonsillitis
+
+&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;002_Dragon873900800101
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: 7bit</string>
+    <string name="e5">It\'s quiet.  Too quiet.  Well, how about a straw poll then.
+How many have plan9 running yet?</string>
+    <string name="e6">It\'s working here.  I have departed almost totally from the Bell Labs
+recommended configuration.  I\'m running a hacked version of the
+terminal kernel on Sparcs, booting off local disc, using a remote Unix
+machine running a hacked \"u9fs\" as the file server.  Lots of things
+don\'t work yet.  I have a TODO list a light-year long.  I expect many
+of my problems would go away if we had the resources to dedicate a CPU
+server (to run daemons) and a file server.
+
+I\'m interested in hearing how others are doing…</string>
+    <string name="e7">From NBC Today Show:
+It\'s the look everyone wants ?a body to diet for.
+They\'re on the beaches, in magazines and all over Hollywood. How far will we go to get one?
+How about thousands of miles and deep into a distant culture?
+South Africa抯 Kalahari Desert is home to what could be the answer to an appetite.
+
+It's a cactus called hoodia. 揧ou strip off the skin, you strip off the spines,
+and then you consume it,?says weight loss expert Madelyn Fernstrom.
+
+It`s a revolution! Read more....</string>
+    <string name="e8">The OIL sector is going crazy. This is our weekly gift to you!
+
+Get KKPT First Thing, This Is Going To Run!
+
+Check out Latest NEWS! </string>
+    <string name="e9">X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1106
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1106
+
+Little magic. Perfect weekends.</string>-->
+
+</resources>
